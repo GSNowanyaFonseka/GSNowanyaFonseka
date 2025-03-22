@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Web development.**
 
-- 📫 How to reach me: **Drop me an email.**
+- 📫 How to reach me: **nowanyafonseka@gmail.com**
 
-- ⚡ I'm like a computer—constantly upgrading myself with new skills and knowledge. **I'm like a computer—constantly upgrading myself with new skills and knowledge.**
+- ⚡ Fun Fact : **I'm like a computer—constantly upgrading myself with new skills and knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
