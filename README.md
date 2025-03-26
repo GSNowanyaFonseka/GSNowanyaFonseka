@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **scaling web applications and optimizing performance.**
 
-- 👨‍💻 All of my projects are available at [https://sandewdi-nowanya-portfolio.vercel.app/](https://sandewdi-nowanya-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at ([https://sandewdi-nowanya-portfolio.vercel.app/](https://www.sandewdinowanya.online/))
 
 - 💬 Ask me about **Web development.**
 
