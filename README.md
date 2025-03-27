@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **scaling web applications and optimizing performance.**
 
-- 👨‍💻 All of my projects are available at [app/https://www.sandewdinowanya.online/](app/https://www.sandewdinowanya.online/)
+- 👨‍💻 All of my projects are available at [https://www.sandewdinowanya.online/](https://www.sandewdinowanya.online/)
 
 - 💬 Ask me about **Web development.**
 
